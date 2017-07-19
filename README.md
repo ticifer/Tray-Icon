@@ -22,6 +22,7 @@ win10版可用于win8
 5、更多信息请访问：https://www.moyoo.net/13311.html。
 
 PS：
+
 1、QQ默认安装路径为C:\Program Files (x86)\Tencent，X.X.XX为你QQ具体版本号。
 
 2、请务必确认文件版本号与你的QQ版本号对应！否则将导致QQ无法打开。
