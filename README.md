@@ -1,5 +1,5 @@
-# QQ
-Windows版QQ、QQ音乐、微信白色图标
+# 图标介绍
+Windows版QQ、QQ音乐、微信、Skype白色托盘图标
 
 QQ图标文件分为win7style和win10style
 
@@ -9,7 +9,7 @@ win7版仅可用于win7
 
 win10版可用于win8
 
-替换使用教程：
+替换使用教程（其它替换类似）：
 
 1. 退出你电脑上当前登录的所有QQ和相关进程。
 
